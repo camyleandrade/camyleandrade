@@ -2,7 +2,7 @@
 
 meu nome é camyle andrade
 
-- Estou estudando no Alura
+- Estou estudando no ´[Alura](https:www.alura.com.br)
 - Estou me desenvolvendo na JavaScript
 - utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
   
